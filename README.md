@@ -6,3 +6,5 @@ First, transform the raw Strings to documents and assign a unique label to each 
 
 In the view of the JavaScript Scatter Plot it is evident that the document vectors are divided into two clusters for the two sentiments. The next step is to partition the dataset and train a predictive model on the created document vectors to perform classification.
 
+
+![YuruLi](https://github.com/YuruLiForPhDApplication/deep-learning-based-emotion-analysis/blob/master/deep%20learning%20method.jpg)
